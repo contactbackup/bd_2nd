@@ -1,0 +1,106 @@
+[{
+		"lose": "4",
+		"match": "9",
+		"number": "1",
+		"point": "50",
+		"team": "Bangladesh",
+		"win": "5"
+	},
+	{
+		"lose": "5",
+		"match": "9",
+		"number": "2",
+		"point": "40",
+		"team": "England",
+		"win": "4"
+	},
+	{
+		"lose": "2",
+		"match": "6",
+		"number": "3",
+		"point": "40",
+		"team": "Pakistan",
+		"win": "4"
+	},
+	{
+		"extraPoint": "+0.013",
+		"lose": "2",
+		"match": "6",
+		"number": "4",
+		"point": "40",
+		"team": "Australia",
+		"win": "4"
+	},
+	{
+		"lose": "0",
+		"match": "3",
+		"number": "5",
+		"point": "30",
+		"team": "New Zealand",
+		"win": "3"
+	},
+	{
+		"lose": "0",
+		"match": "3",
+		"number": "6",
+		"point": "30",
+		"team": "Afghanistan",
+		"win": "3"
+	},
+	{
+		"lose": "3",
+		"match": "6",
+		"number": "7",
+		"point": "30",
+		"team": "West Indies",
+		"win": "3"
+	},
+	{
+		"lose": "3",
+		"match": "6",
+		"number": "8",
+		"point": "29",
+		"team": "India",
+		"win": "3"
+	},
+	{
+		"lose": "1",
+		"match": "3",
+		"number": "9",
+		"point": "20",
+		"team": "Netherlands",
+		"win": "2"
+	},
+	{
+		"lose": "7",
+		"match": "9",
+		"number": "10",
+		"point": "20",
+		"team": "Ireland",
+		"win": "2"
+	},
+	{
+		"lose": "2",
+		"match": "3",
+		"number": "11",
+		"point": "10",
+		"team": "Zimbabwe",
+		"win": "1"
+	},
+	{
+		"lose": "2",
+		"match": "3",
+		"number": "12",
+		"point": "09",
+		"team": "South Africa",
+		"win": "1"
+	},
+	{
+		"lose": "2",
+		"match": "3",
+		"number": "12",
+		"point": "09",
+		"team": "South Africa",
+		"win": "1"
+	}
+]
