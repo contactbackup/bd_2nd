@@ -1,0 +1,49 @@
+[{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/new-zealand/13/players",
+		"teamImage": "https://cdn.britannica.com/17/3017-004-DCC13F9D/Flag-New-Zealand.jpg"
+	},
+	{
+		"teamClick": "australia",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/india/2/players",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/england/9/players",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/south-africa/11/players",
+		"teamImage": "https://cdn.britannica.com/200x500/27/4227-050-00DBD10A/Flag-South-Africa.jpg"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/pakistan/3/players",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
+	},
+	{
+		"teamClick": "bangladesh",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/west-indies/10",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/6/65/West_indies_cricket_board_flag.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/sri-lanka/5",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/afghanistan/96/players",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/zimbabwe/12/players",
+		"teamImage": "https://cdn.shopify.com/s/files/1/0707/3783/products/zimbabwe-flag.jpg?v=1418234970"
+	},
+	{
+		"teamClick": "https://www.cricbuzz.com/cricket-team/ireland/27/players",
+		"teamImage": "https://cdn.britannica.com/33/1733-004-5BA407D6/FLAG-Ireland.jpg"
+	}
+]
