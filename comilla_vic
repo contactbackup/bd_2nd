@@ -1,17 +1,68 @@
 [{
-		"image": "https://a1.espncdn.com/combiner/i?img=/i/headshots/cricket/players/full/56194.png",
-		"name": "Tamim Iqbal"
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170815/kusal-mendis.jpg",
+		"name": "Kusal Mendis"
 	},
 	{
-		"image": "https://staticg.sportskeeda.com/wp-content/uploads/2013/01/Sunil-Narine_3-1357570223.jpg",
-		"name": "Sunil Narine"
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170824/oshane-thomas.jpg",
+		"name": "Oshane Thomas"
 	},
 	{
-		"image": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20140623052950.jpeg",
+		"image": "https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/10790.jpg",
+		"name": "Ariful Haque"
+	},
+	{
+		"image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/273500/273534.1.jpg",
+		"name": "Nahidul Islam"
+	},
+	{
+		"image": "http://s3.amazonaws.com/batsman/Mahmudul%20Hasan%20Joy_d8704dd1-0ecd-4fad-997a-315f894117e8.JPG",
+		"name": "Mahmudul Hasan Joy"
+	},
+	{
+		"image": "https://www.observerbd.com/2020/10/28/observerbd.com_1603822103.jpg",
+		"name": "Sumon Khan"
+	},
+	{
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148275/mominul-haque.jpg",
+		"name": "Mominul Haque"
+	},
+	{
+		"image": "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/66783.png",
+		"name": "Mahidul Islam Ankon"
+	},
+	{
+		"image": "https://images.cricket.com/players/70418_headshot_safari.png",
+		"name": "Pervez Hossain Emon"
+	},
+	{
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170953/moeen-ali.jpg",
 		"name": "Moeen Ali"
 	},
 	{
-		"image": "https://www.scorecricbuzz.com/images/player/7825.jpg",
-		"name": "du Plessis"
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunil_Narine.jpg/260px-Sunil_Narine.jpg",
+		"name": "Sunil Narine"
+	},
+	{
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
+		"name": "Liton Das"
+	},
+	{
+		"image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/283000/283052.1.jpg",
+		"name": "Shohidul Islam"
+	},
+	{
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148273/imrul-kayes.jpg",
+		"name": "Imrul Kayes"
+	}, {
+		"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+		"name": "Mustafizur Rahman"
+	},
+	{
+		"image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170639/faf-du-plessis.jpg",
+		"name": "Faf du Plessis"
+	},
+	{
+		"image": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/269600/269672.1.jpg",
+		"name": "Tanvir Islam"
 	}
 ]
