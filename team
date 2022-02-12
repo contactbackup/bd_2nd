@@ -3,7 +3,7 @@
 		"teamImage": "https://cdn.britannica.com/17/3017-004-DCC13F9D/Flag-New-Zealand.jpg"
 	},
 	{
-		"teamClick": "australia",
+		"teamClick": "",
 		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1200px-Flag_of_Australia_%28converted%29.svg.png"
 	},
 	{
@@ -16,7 +16,7 @@
 	},
 	{
 		"teamClick": "https://www.cricbuzz.com/cricket-team/south-africa/11/players",
-		"teamImage": "https://cdn.britannica.com/200x500/27/4227-050-00DBD10A/Flag-South-Africa.jpg"
+		"teamImage": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg"
 	},
 	{
 		"teamClick": "https://www.cricbuzz.com/cricket-team/pakistan/3/players",
@@ -36,7 +36,7 @@
 	},
 	{
 		"teamClick": "https://www.cricbuzz.com/cricket-team/afghanistan/96/players",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
+		"teamImage": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg"
 	},
 	{
 		"teamClick": "https://www.cricbuzz.com/cricket-team/zimbabwe/12/players",
