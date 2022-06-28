@@ -1,106 +1,93 @@
 [{
-		"lose": "4",
-		"match": "9",
 		"number": "1",
-		"point": "50",
-		"team": "Bangladesh",
-		"win": "5"
-	},
-	{
-		"lose": "5",
-		"match": "9",
-		"number": "2",
-		"point": "40",
 		"team": "England",
-		"win": "4"
+		"match": "18",
+		"win": "12",
+		"point": "125",
+		"lose": "5"
 	},
 	{
-		"lose": "2",
-		"match": "6",
+		"number": "2",
+		"team": "Bangladesh",
+		"match": "18",
+		"win": "12",
+		"point": "120"
+	},
+	{
 		"number": "3",
-		"point": "40",
-		"team": "Pakistan",
-		"win": "4"
-	},
-	{
-		"extraPoint": "+0.013",
-		"lose": "2",
-		"match": "6",
-		"number": "4",
-		"point": "40",
-		"team": "Australia",
-		"win": "4"
-	},
-	{
-		"lose": "0",
-		"match": "3",
-		"number": "5",
-		"point": "30",
-		"team": "New Zealand",
-		"win": "3"
-	},
-	{
-		"lose": "0",
-		"match": "3",
-		"number": "6",
-		"point": "30",
 		"team": "Afghanistan",
-		"win": "3"
+		"match": "12",
+		"win": "10",
+		"point": "100"
 	},
 	{
-		"lose": "3",
-		"match": "6",
-		"number": "7",
-		"point": "30",
+		"number": "4",
+		"team": "Pakistan",
+		"match": "15",
+		"win": "9",
+		"point": "90"
+	},
+	{
+		"number": "5",
 		"team": "West Indies",
-		"win": "3"
+		"match": "21",
+		"win": "8",
+		"point": "80"
 	},
 	{
-		"lose": "3",
-		"match": "6",
-		"number": "8",
-		"point": "29",
+		"number": "6",
 		"team": "India",
-		"win": "3"
+		"match": "12",
+		"win": "8",
+		"point": "79"
 	},
 	{
-		"lose": "1",
-		"match": "3",
-		"number": "9",
-		"point": "20",
-		"team": "Netherlands",
-		"win": "2"
+		"number": "7",
+		"team": "Australia",
+		"match": "12",
+		"win": "7",
+		"point": "70"
 	},
 	{
-		"lose": "7",
-		"match": "9",
-		"number": "10",
-		"point": "20",
+		"number": "8",
 		"team": "Ireland",
-		"win": "2"
+		"match": "18",
+		"win": "6",
+		"point": "68"
 	},
 	{
-		"lose": "2",
-		"match": "3",
+		"number": "9",
+		"team": "Sri Lanka",
+		"match": "18",
+		"win": "6",
+		"point": "62"
+	},
+	{
+		"number": "10",
+		"team": "New Zealand",
+		"match": "6",
+		"win": "6",
+		"point": "60"
+	},
+	{
 		"number": "11",
-		"point": "10",
+		"team": "South Africa",
+		"match": "13",
+		"win": "4",
+		"point": "49"
+	},
+	{
+		"number": "12",
 		"team": "Zimbabwe",
-		"win": "1"
+		"match": "15",
+		"win": "3",
+		"point": "35"
 	},
 	{
-		"lose": "2",
-		"match": "3",
-		"number": "12",
-		"point": "09",
-		"team": "South Africa",
-		"win": "1"
-	},
-	{
-		"lose": "2",
-		"match": "3",
-		"number": "12",
-		"point": "09",
-		"team": "South Africa",
-		"win": "1"
+		"number": "13",
+		"team": "Netherlands",
+		"match": "16",
+		"win": "2",
+		"point": "25"
 	}
 ]
